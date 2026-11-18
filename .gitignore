@@ -1,0 +1,30 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ambiente e segredos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependências e builds
+node_modules/
+dist/
+build/
+coverage/
+.venv/
+__pycache__/
+
+# Logs e temporários
+*.log
+*.tmp
+*.bak

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "donnar": {
+      "type": "streamable-http",
+      "url": "https://mcp.donnar.app/start"
+    }
+  }
+}

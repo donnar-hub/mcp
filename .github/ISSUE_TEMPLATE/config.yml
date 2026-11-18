@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Suporte do Donnar
+    url: https://donnar.app/suporte/
+    about: Dúvidas de uso, planos, cadastro e conexão com IA.
+  - name: Segurança
+    url: mailto:suporte@donnar.app
+    about: Não abra issue pública para vulnerabilidades. Leia SECURITY.md e envie e-mail com assunto [SECURITY].
